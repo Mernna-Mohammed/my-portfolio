@@ -95,7 +95,7 @@ img {
 }
 
 .home-content h1 {
-  font-size: 275%;
+  font-size: 260%;
   margin-bottom: 30px;
   animation: slideDown 1.4s ease forwards;
 }
@@ -155,7 +155,7 @@ h2::after {
 
  .about-info  {
   margin: 12px 0;
-  font-size: 80%;
+  font-size: 90%;
   padding: 35px 50px 20px 5px;
   margin: 15px 60px 10px 10px;
    height: 70%;
@@ -189,7 +189,7 @@ h2::after {
 
 
 #about p {
-  font-size: 115%;
+  font-size: 130%;
   color: #cbd5e1;
   max-width: 700px;
   margin: 0 auto;
