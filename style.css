@@ -95,13 +95,13 @@ img {
 }
 
 .home-content h1 {
-  font-size: 336%;
+  font-size: 300%;
   margin-bottom: 30px;
   animation: slideDown 1.4s ease forwards;
 }
 
 .home-content p {
-  font-size: 125%;
+  font-size: 110%;
   font-weight: bold;
   margin-bottom: 20px;
 }
@@ -136,7 +136,7 @@ section {
 
 h2 {
   text-align: center; 
-  font-size: 320%;
+  font-size: 280%;
   margin-bottom: 40px;
   position: relative;
 }
@@ -155,7 +155,7 @@ h2::after {
 
  .about-info  {
   margin: 12px 0;
-  font-size: 90%;
+  font-size: 70%;
   padding: 35px 50px 20px 5px;
   margin: 15px 60px 10px 10px;
    height: 70%;
@@ -189,7 +189,7 @@ h2::after {
 
 
 #about p {
-  font-size: 125%;
+  font-size: 105%;
   color: #cbd5e1;
   max-width: 700px;
   margin: 0 auto;
@@ -311,9 +311,9 @@ h5 {
 }
 
 #lin {
-  margin-left: 20px;
+  margin-left: 18px;
   margin-top: 20px;
-  padding: 5px 10px;
+  padding: 5px 8px;
   font-size: 22px;
   font-weight: bold;
   color: #7497ca;
