@@ -95,13 +95,13 @@ img {
 }
 
 .home-content h1 {
-  font-size: 300%;
+  font-size: 275%;
   margin-bottom: 30px;
   animation: slideDown 1.4s ease forwards;
 }
 
 .home-content p {
-  font-size: 110%;
+  font-size: 95%;
   font-weight: bold;
   margin-bottom: 20px;
 }
@@ -155,7 +155,7 @@ h2::after {
 
  .about-info  {
   margin: 12px 0;
-  font-size: 70%;
+  font-size: 80%;
   padding: 35px 50px 20px 5px;
   margin: 15px 60px 10px 10px;
    height: 70%;
