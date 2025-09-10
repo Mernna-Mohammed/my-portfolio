@@ -136,7 +136,7 @@ section {
 
 h2 {
   text-align: center; 
-  font-size: 290%;
+  font-size: 275%;
   margin-bottom: 40px;
   position: relative;
 }
@@ -274,12 +274,12 @@ h2::after {
 }
 
 #skills h2 {
-    padding: 10px 10px;
+    padding: 10px 20px;
 }
 
 .skill1 {
-    padding: 0px 20px;
-    width: 40%;
+    padding: 10px 30px;
+    width: 50%;
 
 }
 
