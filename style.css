@@ -155,7 +155,7 @@ h2::after {
 
  .about-info  {
   margin: 12px 0;
-  font-size: 110%;
+  font-size: 90%;
   padding: 35px 50px 20px 5px;
   margin: 15px 60px 10px 10px;
    height: 70%;
@@ -257,6 +257,60 @@ h2::after {
   border: 2px solid #facc15;
 }
 
+/* skills */
+ #skills {
+    
+    height: 90%;
+    padding-left: 20px;
+    padding-top: 50px;
+} 
+
+.total_skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+}
+
+#skills h2 {
+    padding: 10px 10px;
+}
+
+.skill1 {
+    padding: 0px 20px;
+    width: 40%;
+
+}
+
+.skill1_desc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ h4 {
+    padding: 0px;
+    margin: 0px;
+} 
+
+.skill1_bar {
+    background-color: white;
+    height: 10px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.skill1_bar::after {
+    content: "";
+    border-radius: 20px;
+    background-color:  #82a5db;
+    width: 70%;
+    height: 10px;
+    position:absolute;
+}
+
+
 /* ===== Contact  ===== */
 form {
   max-width: 500px;
@@ -316,7 +370,7 @@ h5 {
   padding: 5px 8px;
   font-size: 22px;
   font-weight: bold;
-  color: #7497ca;
+  color: #7a99c7;
 }
 
 #lin:hover {
