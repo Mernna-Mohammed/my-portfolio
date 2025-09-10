@@ -155,7 +155,7 @@ h2::after {
 
  .about-info  {
   margin: 12px 0;
-  font-size: 90%;
+  font-size: 80%;
   padding: 35px 50px 20px 5px;
   margin: 15px 60px 10px 10px;
    height: 70%;
@@ -191,7 +191,7 @@ h2::after {
 #about p {
   font-size: 160%;
   color: #cbd5e1;
-  max-width: 700px;
+  max-width: 900px;
   margin: 0 auto;
   line-height: 1.8;
   padding: 0 10px;
